@@ -1,3 +1,3 @@
 # Handin3
 
-Quiz about Linux and Git
+Quiz about Linux and Github
